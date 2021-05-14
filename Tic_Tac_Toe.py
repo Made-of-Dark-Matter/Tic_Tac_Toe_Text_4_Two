@@ -91,7 +91,7 @@ def Tic_Tac_Toe_Game():
     while True:
         print('Welcome to Tic Tac Toe!\n')
 
-        game_board1=['#','7','8','9','4','5','6','1','2','3']
+        game_board1=['#','1','2','3','4','5','6','7','8','9']
         game_board=['#',' ',' ',' ',' ',' ',' ',' ',' ',' ']
 
         #Game Set Up
